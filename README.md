@@ -25,5 +25,7 @@
 
 7. **Iterate and Learn**: If unsuccessful, analyze your approach, learn from it, and try again!
 
+8. **The code is 537 for success message**
+
 ## 🏁 Outcome
 - Mastery in interpreting SHA256 hashes through critical thinking and analysis.
